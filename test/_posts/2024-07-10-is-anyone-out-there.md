@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: archive
 title:  "Is Anyone Out There?"
 author: Titus Barnes
 categories:
